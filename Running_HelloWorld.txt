@@ -1,0 +1,35 @@
+Creating HelloWorld Project in IONIC FrameWork :
+-Go to the project folder and open command prompt 
+-hit below command to create basic project
+	->ionic start HelloWorld blank
+
+Command to check requirement for running ionic framwork with apache cordova 
+->cordova requirements android --verbose
+(Actual requirement list:
+ JAVA JDK 
+ ANDROID SDK
+ ANDROID TARGET
+ GRADDLE)
+
+explaining each of these above :
+-java jdk , you can download and install with oracle website and setting env path 
+-for andoird sdk , you need to install android studio and then set sdk path 
+-andoig target , here you need go to andoig studio -> configuration ->sdk manager and then install required 
+target 
+-graddle, this helps in building the native application , go to graddle site and install and set path 
+
+
+
+How to run IONIC Project with cordova on mobile :
+Run below command : 
+ionic cordova run android --device
+refernce : https://ionicframework.com/docs/v3/intro/deploying/
+
+
+
+About GRADDLE :
+what is gradle :
+it provide environment to build andoid applications
+before building any application , install gradle and set its path 
+need to install gradle 
+reference : https://gradle.org/install/ 
