@@ -1,0 +1,42 @@
+jdk 
+android studio 
+node js 
+visual studio code 
+ionic
+cordova
+
+
+
+Use of "VISUAL STUDIO CODE" In building IONIC Projects :
+-we need some platform to write html,css and angular code 
+-Visual studio code is good platform for writing html,css and angular code and also it will help for debuging
+the code.
+
+
+Use of "ANDROID STUDIO" in building IONIC Projects :
+Once we develop a ionic project we can run that project in Andriod studio emulator 
+for this reason we can install android studio software. 
+(If you use ios system , you can install xcode software)
+
+Use of "NODEJS" in building IONIC Projects:
+-To run java scripts , we need some kind of platform 
+-We can run javascripts using nodejs platform 
+-It will be like a compiler or creates a environment to run our javascript files 
+
+
+Use of "CORDOVA" in building IONIC Projects:
+Cordova gives us plugins which makes the application to run in any of the device like android, ios , windows 
+
+Use of "IONIC FRAMEWORK" in building IONIC Projects:
+IONIC Framwork provides toolkit to write the hybrid application and create hybrid applications 
+
+
+
+
+
+
+
+
+
+
+ 
