@@ -1,0 +1,22 @@
+Installation steps for IONIC Platform 
+-We need to install following softwares for IONIC Platform installation 
+1)JAVA runtime environment 
+2)Android Studio 
+3)Node JS 
+4)VisualsStudio Code 
+
+ 
+Install all the above softwares and follow below steps 
+open command prompt and check below things 
+->node -v 
+->npm -v 
+(These both should be succesffully installed)
+
+now hit below command to install ionic with cordova :
+->npm install -g @ionic/cli cordova
+
+After succesffully installation check  installed or not with below command :
+->ionic -v
+->cordova -v
+
+********************************************************************************************
