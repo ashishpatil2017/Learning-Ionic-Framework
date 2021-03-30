@@ -1,11 +1,10 @@
+Tools Used for developing IONIC Application 
 jdk 
 android studio 
 node js 
 visual studio code 
 ionic
 cordova
-
-
 
 Use of "VISUAL STUDIO CODE" In building IONIC Projects :
 -we need some platform to write html,css and angular code 
